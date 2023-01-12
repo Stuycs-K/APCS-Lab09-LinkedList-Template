@@ -6,10 +6,10 @@ public class MyLinkedList{
   public MyLinkedList(){
   }
   
-  public int 	size(){
+  public int size(){
     //Returns the number of elements in this list.
   }
-  public void add(int index, String element){
+  public void add(int index, String element){
     //Inserts the specified element at the specified position in this list.
   }
   
@@ -18,23 +18,23 @@ public class MyLinkedList{
     return true;
   }
   
-  public boolean add(String e){
+  public boolean add(String e){
     //Appends the specified element to the end of this list.
     return true;
   }
-  public boolean contains(String element){
+  public boolean contains(String element){
     //Returns true if this list contains the specified element, false otherwise.
   }
   
-  public String remove(int index){
+  public String remove(int index){
     //Removes the element at the specified position in this list..
   }
   
-  public boolean remove(String element){
+  public boolean remove(String element){
     //Removes the first occurrence of the specified element from this list, if it is present..
   }
   
-  public String set(int index, String value){
+  public String set(int index, String value){
     //Replaces the value at the specified index in this list with the specified value.
     //Return the original String that was present
   } 
