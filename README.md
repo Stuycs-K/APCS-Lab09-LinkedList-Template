@@ -1,22 +1,16 @@
 # Diagrams go here
 
 Add by index:
+
 ![Alt text](cat.jpeg?raw=true "Title" ) 
 
 Remove:
+
 ![Alt text](cat.jpeg?raw=true "Title" ) 
 
 # APCS-Lab11-MyLinkedList
 
 Complete the Node and List classes, then test your list class. 
-
-toString() is required. The format is just like the ArrayList: comma+space separated values inside of square brackets. Examplels: "[]" or "[value1]" or "[value1, value2, value3]"
-
-toStringReversed() is highly suggested but will not be explicitly tested.
-
-LinkedList has the same Exceptions as the SuperArray. I will not be explicitly testing the Exceptions, however if you do not use them, it would be difficult to determine why your lab fails.
-
-Hint: You can use the same tester you used for your SuperArray!
 
 # Required Diagrams
 
