@@ -1,8 +1,8 @@
 # Diagrams go here
 
-![Alt text](IMAGEFILENAME.jpg?raw=true "Title" ) 
+![Alt text](cat.png?raw=true "Title" ) 
 
-![Alt text](IMAGEFILENAME.jpg?raw=true "Title" ) 
+![Alt text](cat.png?raw=true "Title" ) 
 
 # APCS-Lab11-MyLinkedList
 
