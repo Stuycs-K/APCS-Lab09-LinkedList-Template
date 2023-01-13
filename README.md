@@ -1,7 +1,9 @@
 # Diagrams go here
 
+Add by index:
 ![Alt text](cat.jpeg?raw=true "Title" ) 
 
+Remove:
 ![Alt text](cat.jpeg?raw=true "Title" ) 
 
 # APCS-Lab11-MyLinkedList
